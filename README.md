@@ -39,7 +39,17 @@ Appið er búið til í Android Studio
 
 3. Næst er ýtt á playtakkann.  
 
+## What this project tought me 
 
+The project, which was defined and designed in the Software Project 1 course, is refined, implemented, tested, deployed, and delivered. This includes implementation in stages, adherence to programming standards, documentation, software traceability and verification, error-free programming, evaluating the scope of software systems, testing methodologies, conducting evaluations and quality assessments on software projects, scrutinizing design and implementation, system deployment and reception, software system lifecycle, measurements in software creation, and international standards for software development.
+
+Learning outcomes:
+Upon completion of the course, students can:
+
+Define, classify, and apply quality models for software in system development projects
+Maintain and develop software
+Identify and review products from software development projects
+Review the process for software development and make suggestions for improvements to it.
 
 ## Höfundar verkefnsins
 
